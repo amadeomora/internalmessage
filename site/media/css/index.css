@@ -1,0 +1,80 @@
+.com_internalmessage {
+}
+
+.com_internalmessage .componentheading {
+	width: 100%;
+	text-align: left;
+	height: 1.5em;
+}
+
+.com_internalmessage .componentheading div {
+	float: right;
+	height: 45px;
+}
+
+.com_internalmessage .componentheading a {
+	text-decoration: none;
+}
+
+.com_internalmessage .sectiontableheader {
+}
+
+.com_internalmessage .sectiontableentry {
+}
+
+.com_internalmessage .cim_menu {
+}
+
+.com_internalmessage .cim_actions {
+	float: right;
+	height: 100%;
+}
+
+.com_internalmessage .cim_actions button {
+	background-color: #fff;
+	border: 0px;
+	cursor: pointer;
+}
+
+.com_internalmessage td.key {
+	text-align: right;
+	vertical-align: top;
+	width: 100px;
+}
+
+.com_internalmessage .cim_show {
+	margin: 0.5em 0 0 0;
+	width: 850px;
+}
+
+.com_internalmessage .cim_nav {
+	margin: 0.5em 0 0 0;
+}
+
+.com_internalmessage .cim_list {
+	margin: 0.5em 0 0 0;
+}
+
+.com_internalmessage th {
+	color: white;
+	background-color: navy;
+	font-weight: bold;
+}
+
+.com_internalmessage .cim_form {
+	margin: 0.5em 0 0 0;
+}
+
+.com_internalmessage .cim_form td, .com_internalmessage .cim_form tr, .com_internalmessage .cim_form table {
+	border: 0;
+}
+
+
+.com_internalmessage .attachment {
+	float: right;
+	margin: 0 0 0 2px;
+}
+
+.com_internalmessage .nomessage {
+	padding: 0 0 0 40px;
+}
